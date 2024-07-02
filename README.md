@@ -1,4 +1,4 @@
-### Analyzing and Fixing Security Vulnerabilities in a Web Application
+# Analyzing and Fixing Security Vulnerabilities in a Web Application
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ This project involves analyzing security vulnerabilities in a web application, i
 1. **Database Examination**:
    - Utilized the `sqlite3` tool to examine the application's database.
    - Employed the `.schema` command for a comprehensive overview of the database structure.
-   - Executed SQL queries directly at the command prompt to examine the database contents.
+   - Executed SQL queries directly at the command prompt and through DB Browser to examine the database contents.
 
 2. **Application Execution**:
    - Launched the web application using the command `./gradlew run` (or `gradlew run` for Windows).
