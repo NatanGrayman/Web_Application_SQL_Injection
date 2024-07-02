@@ -1,4 +1,4 @@
-Analyzing and Fixing Security Vulnerabilities in a Web Application
+### Analyzing and Fixing Security Vulnerabilities in a Web Application
 
 ## Project Overview
 
@@ -47,9 +47,6 @@ This project involves analyzing security vulnerabilities in a web application, i
 
 2. **Report**:
    - A detailed PDF report (`report.pdf`) describing the analysis, the vulnerabilities identified, the fixes implemented, and the validation results.
-
-3. **Submission**:
-   - The `cwk2.zip` file, generated using the `./gradlew submission` command, contains all necessary materials for submission.
 
 ## Conclusion
 
