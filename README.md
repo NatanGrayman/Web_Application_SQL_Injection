@@ -1,6 +1,4 @@
-# README
-
-## Project Title: Analyzing and Fixing Security Vulnerabilities in a Web Application
+Analyzing and Fixing Security Vulnerabilities in a Web Application
 
 ## Project Overview
 
