@@ -56,5 +56,3 @@ This project involves analyzing security vulnerabilities in a web application, i
 This project demonstrates the importance of secure coding practices, especially in handling user input and storing sensitive data. By implementing prepared statements and properly securing passwords, the application is now robust against SQL injection attacks, ensuring the protection of confidential patient data.
 
 ---
-
-This README provides an overview of the project, highlighting my SQL capabilities and secure coding practices, and includes all necessary details for understanding and replicating the solution.
