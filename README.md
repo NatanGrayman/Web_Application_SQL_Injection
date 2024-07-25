@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves analyzing security vulnerabilities in a web application, identifying and fixing these vulnerabilities, and thoroughly testing the application to ensure it is secure. The primary focus was on SQL injection vulnerabilities and improving password storage security. This project highlights my SQL capabilities and my understanding of secure coding practices.
+This project involves analyzing security vulnerabilities in a web application, identifying and fixing these vulnerabilities, and thoroughly testing the application to ensure it is secure. The primary focus was on SQL injection vulnerabilities and improving password storage security. This project highlights my SQL capabilities, risk assessment secure coding audits. 
 
 ## Assignment Details
 
